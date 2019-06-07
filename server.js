@@ -1,8 +1,24 @@
 'use strict';
-
+//function require (yellow color) made globally available when you run a node argument 'dotenv' (.)means chaining-config is returning(passing)
+//('dotenv') means find me a package dotenv
 require('dotenv').config();
+
+
+//require means we needed more package
+//when we require express we ge a function back
 const express = require('express');
+
+
+//function is invoke we get app 
+//express is the web server 
 const app = express();
+
+app.listen(5000, () => console.log ('I am alive.'))
+
+app.get('/ping', (request, response)=>{
+  response.send('pong')
+});
+
 
 const PORT = process.env.PORT || 3000;
 
