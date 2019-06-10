@@ -49,3 +49,13 @@ Start time: _____
 Finish time: _____
 
 Actual time needed to complete: _____
+
+Number and name of feature: LAB 5a
+
+Estimate of time needed to complete: 1hr
+
+Start time: 10:09am
+
+Finish time: 
+
+Actual time needed to complete: _____
