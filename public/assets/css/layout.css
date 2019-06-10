@@ -496,7 +496,7 @@ section, article {
   section > .container, section:last-child, article > :last-child,
   article > .container, article:last-child {
     margin-bottom: 0;
-    background-image: url("images/art-bg.jpg");
+    background-image: url("images/i-bg.jpg");
     color: black;
     font-family: Georgia, 'Times New Roman', Times, serif;
   }

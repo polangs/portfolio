@@ -6,7 +6,6 @@
   max-width: 100%;
   width: 1400px;
   float: left;
-  background-image: url("images/art-bg.jpg");
 }
 
   @media screen and (min-width: 961px) and (max-width: 1880px) {
