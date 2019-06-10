@@ -486,7 +486,7 @@
 					padding-top: 80px;
         }
         
-/* Sections/Article */
+/* Sections/Article -poem*/
 
 section, article {
   margin-bottom: 3em;
@@ -496,6 +496,9 @@ section, article {
   section > .container, section:last-child, article > :last-child,
   article > .container, article:last-child {
     margin-bottom: 0;
+    background-image: url('images/vintage-paper.jpg');
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
   }
 
   .row > section, .row > article {

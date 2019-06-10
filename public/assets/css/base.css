@@ -5,6 +5,9 @@
   margin: 0 auto;
   max-width: 100%;
   width: 1400px;
+  float: left;
+  background-image: url("images/vintage-paper.jpg");
+
 }
 
   @media screen and (min-width: 961px) and (max-width: 1880px) {
