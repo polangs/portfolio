@@ -496,7 +496,7 @@ section, article {
   section > .container, section:last-child, article > :last-child,
   article > .container, article:last-child {
     margin-bottom: 0;
-    background-image: url("images/i-bg.jpg");
+    /* background-image: url("images/i-bg.jpg"); */
     color: black;
     font-family: Georgia, 'Times New Roman', Times, serif;
   }
@@ -511,7 +511,7 @@ table {
   width: 100%;
   text-align: left;
 }
-
+x
   table tbody tr:nth-child(2n+2) {
     background: #f4f4f4;
   }
