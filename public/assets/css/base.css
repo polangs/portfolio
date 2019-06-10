@@ -2,6 +2,7 @@
 /* Container */
 
 .container {
+  flex-direction: row;
   /* margin: 0 auto;
   max-width: 100%;
   width: 1400px;
