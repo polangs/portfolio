@@ -40,15 +40,6 @@ Credits:
 		Responsive Tools (github.com/ajlkn/responsive-tools)
 
 
-Number and name of feature: ________________________________
-
-Estimate of time needed to complete: _____
-
-Start time: _____
-
-Finish time: _____
-
-Actual time needed to complete: _____
 
 Number and name of feature: LAB 5a
 
@@ -58,4 +49,4 @@ Start time: 10:09am
 
 Finish time: 12:16pm
 
-Actual time needed to complete: 2.5hrs
+
